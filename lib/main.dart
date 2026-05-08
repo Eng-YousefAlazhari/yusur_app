@@ -17,7 +17,17 @@ class MyApp extends StatelessWidget {
       locale: DevicePreview.locale(context),
       builder: DevicePreview.appBuilder,
       debugShowCheckedModeBanner: false,
-      home: Scaffold(body: Center(child: Text('Hello Yusur'))),
+      home: Scaffold(
+        body: Center(
+          child: Text(
+            'منصة يسر ',
+            style: TextStyle(
+              fontFamily: 'LamaSans',
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+        ),
+      ),
     );
   }
 }
