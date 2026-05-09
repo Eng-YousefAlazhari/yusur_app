@@ -21,9 +21,18 @@ class AppColors {
   static const onSurface = Color(0xff9EA2AE);
   static const container = Color(0xffE5E7EA);
 
-  //wihte color
+  // colors
+  static const black = Color(0xff000000);
   static const white = Color(0xffffffff);
   static const white80 = Color(0xffD9D9D9);
+  static const green = Color(0xff047857);
+  static const greenLit = Color(0xffD1FAE5);
+  static const red = Color(0xffEE443F);
+  static const redLit = Color(0xffFDECEC);
+  static const purple = Color(0xff9333EA);
+  static const purpleLit = Color(0xffF3E8FF);
+  static const orange = Color(0xffEA580C);
+  static const orangeLit = Color(0xffFEF3C7);
 
   //error
   static const error300 = Color(0xff710e21);
