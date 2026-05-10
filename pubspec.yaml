@@ -29,6 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   cupertino_icons: ^1.0.8
+  dio: ^5.9.2
   flutter:
     sdk: flutter
 
@@ -80,7 +81,6 @@ flutter:
         - asset: assets/fonts/LamaSans-SemiBoldItalic.otf
         - asset: assets/fonts/LamaSans-Thin.otf
         - asset: assets/fonts/LamaSans-ThinItalic.otf
-
   # fonts:
   #   - family: Schyler
   #     fonts:
