@@ -33,6 +33,7 @@ dependencies:
   dio: ^5.9.2
   flutter:
     sdk: flutter
+  go_router: ^17.2.3
   hugeicons: ^1.1.7
 
 dev_dependencies:
